@@ -1,4 +1,4 @@
-This is my coursework from course: "System Engineering".
+This is my coursework from the course: "System Engineering".
 
 **--Need to change--** 
 In file logs.txt everyone can see logins to accounts.
