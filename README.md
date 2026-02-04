@@ -1,6 +1,3 @@
 This is my coursework from the course: "System Engineering".
 
-**--Need to change--** 
-In file logs.txt everyone can see user logins from accounts. 
-The interface needs to be improved for ease to use. 
-The security notification should not warn you after the first login. 
+Install and launch the PasswordManager.py, create a password, and authenticate. Now you're ready to use.
