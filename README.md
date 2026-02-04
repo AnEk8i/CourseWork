@@ -1,3 +1,3 @@
 This is my coursework from the course: "System Engineering".
 
-Install and launch the PasswordManager.py, create a password, and authenticate. Now you're ready to use.
+Install the PasswordManager.py and lib cryptography, launch the program, create a password, and authenticate. Now you're ready to use.
